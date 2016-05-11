@@ -129,6 +129,11 @@ article .section-title,
   text-transform: none;
 }
 
+.tbd  
+{  
+ white-space: wrap;  
+} 
+
 .row-profile {
   box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
 }
