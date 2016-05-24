@@ -55,8 +55,13 @@ $ sudo apt-get install -y cuda</p>
 	<p><b>caffe安装个人心得：</b></p>
 	<p>1、ubuntu14.04.3系统，安装cuda7.5可以正常使用。但是连接KVM的话，使用cuda7.5的驱动，分辨率会不正常。</p>
 	<p>2、连接kvm的nvidia显卡驱动版本为352.63时，分辨率正常。</p>
-	<p>3、ubuntu 14.04.1系统，配合cuda7.0和cudnn7.0，caffe可以正常使用。而且安装的显卡驱动版本也为352.63，kvm也可正常使用。</p>
-	<p>4、安装caffe下的所有软件，一定要在全英文的路径下。路径中不要包含中文，特别是安装opencv的时候。</p>
+	<p>3、ubuntu 14.04.1系统，配合cuda7.0和cudnnV4，caffe可以正常使用。而且安装的显卡驱动版本也为352.63，kvm也可正常使用。</p>
+	<p>4、安装caffe下的所有软件，一定要在全英文的路径下，路径中不要包含中文，特别是安装opencv的时候。</p>
+	<p>5、实践证明的可使用组合：
+	<br>硬件：titanX显卡，无单独显卡；Intel core i5-4590CPU，4核；32G内存；
+	<br>ubuntu系统14.04.1，64位操作系统
+	<br>cuda7.0；cudnnV4；opencv3.1.0；parallel studio 2013；google golg-0.3.3；MATLAB 2014b
+	</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/zhouxiaowei1120/zxw.github.io">【转载】Caffe + Ubuntu 15.04 + CUDA 7.5 新手安装配置指南</a> is maintained by <a href="https://github.com/zhouxiaowei1120">zhouxiaowei1120</a>.</span>
