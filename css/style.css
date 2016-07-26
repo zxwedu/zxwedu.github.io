@@ -221,7 +221,16 @@ textarea:focus,
 /*-----------------------------------------------------------------------------
     3. HEADER
 -----------------------------------------------------------------------------*/
-
+.wrap-header{
+	position: fixed;
+	background-color: white;
+	left: auto;
+	top:0;
+	z-index: 1024;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
 .wrap-header h1 {
   font-weight: normal;
   font-size: 1.125em;
@@ -823,7 +832,8 @@ a {
   -o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
   -ms-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
-  position: relative
+  position: relative;
+  padding-top: 150px;
 }
 
 #container:after, #container:before {
