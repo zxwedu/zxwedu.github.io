@@ -147,6 +147,7 @@ textarea:focus,
 
 .wrap-header article {
   overflow: visible;
+  font-size: 1.0em;
 }
 
 .wrap-footer {
@@ -258,6 +259,7 @@ textarea:focus,
 
 .wrap-ribbons {
   float: right;
+  /* font-size: 1.2em; */
   margin: -3.125em 0 0 0;
   padding: 0 0 10px 30px;
 }
@@ -309,13 +311,14 @@ textarea:focus,
 .ribbon2,
 .ribbon3 {
   display: block;
-  width: 79px;
+  width: 92px;
   height: 75px;
-  padding: 21px 0 0 0;
+  padding: 15px 0 0 0;
   background: url(../img/ribbon-4.png) no-repeat;
   overflow: hidden;
   color: #fff;
-  font-size: 11px;
+  font-size: 13.5px;
+  color:#fff;
   border: 0 none;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
