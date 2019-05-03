@@ -20,6 +20,13 @@ body {
   display: block;
 }
 
+.wrap-header,
+#container {
+  margin: 10px;
+  width: 300px;
+  min-width: 300px;
+}
+
 .wrap-header article,
 .row article {
   width: 280px;
