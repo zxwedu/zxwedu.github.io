@@ -14,7 +14,7 @@ Windows远程连接Ubuntu，上传文件并运行matlab
 
 <p><b>（1）配置系统，使得Windows系统可以远程连接Ubuntu系统</b></p>
 
-<p>具体参见博客：<a href="http://zhouxiaowei1120.github.io/Blogs/20160407.html" target="_blank">Windows（xrdp+vnc）远程连接Ubuntu系统</a></p>
+<p>具体参见博客：<a href="http://zxwedu.github.io/Blogs/20160407.html" target="_blank">Windows（xrdp+vnc）远程连接Ubuntu系统</a></p>
 
 <p><b>（2）通过windows系统“远程桌面连接”软件，连接Ubuntu系统，即可远程控制Ubuntu</b></p>
 
@@ -25,7 +25,7 @@ Windows远程连接Ubuntu，上传文件并运行matlab
 
 <p><b>（3）配置SSH，使得Windows可以与Ubuntu系统远程传输文件</b></p>
 
-<p>具体参见：<a href="http://zhouxiaowei1120.github.io/Blogs/20160524.html" target="_blank">ubuntu下配置ssh，与windows进行文件传输</a></p>
+<p>具体参见：<a href="http://zxwedu.github.io/Blogs/20160524.html" target="_blank">ubuntu下配置ssh，与windows进行文件传输</a></p>
 <p>按照上述步骤安装好软件之后，具体上传文件过程如下：以xftp软件为例。</p>
 <p>A.按照下图方式新建传输对话框。</p>
 <img src='./Blogs/img/xftp_new.png'/>

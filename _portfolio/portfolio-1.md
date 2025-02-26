@@ -19,7 +19,7 @@ Young Teacher Foundation of Ocean University of China &mdash; undergraduate grad
 </div>
 <p class="reference">
 Project on Github:
-<a href="https://github.com/zhouxiaowei1120/GraduDesign" target="_blank">GraduDesign</a>
+<a href="https://github.com/zxwedu/GraduDesign" target="_blank">GraduDesign</a>
 </br>
 </br>
     The Related Paper: <a href="./download/Tsunami.pdf" target="_blank">Visual Simulation for Tsunami and Disaster Risk Assessment</a>

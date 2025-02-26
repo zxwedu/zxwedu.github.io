@@ -9,7 +9,7 @@ tags:
 
 ubuntu下配置ssh，与windows进行文件传输
 
-<p>一直以来，远程连接windows都是使用vnc（配置方法参见：<a href="http://zhouxiaowei1120.github.io/Blogs/20160407.html">Windows（xrdp+vnc）远程连接Ubuntu系统</a>）。windows下使用vnc连接ubuntu，可以看到图形界面,操作比较友好，但是速度比较慢。而使用ssh的好处是速度比较快，同时可以通过安装软件传输文件。一旦系统崩溃，在系统无法进入桌面和tty的情况下，可以通过ssh远程连接进行操作。</p>
+<p>一直以来，远程连接windows都是使用vnc（配置方法参见：<a href="http://zxwedu.github.io/Blogs/20160407.html">Windows（xrdp+vnc）远程连接Ubuntu系统</a>）。windows下使用vnc连接ubuntu，可以看到图形界面,操作比较友好，但是速度比较慢。而使用ssh的好处是速度比较快，同时可以通过安装软件传输文件。一旦系统崩溃，在系统无法进入桌面和tty的情况下，可以通过ssh远程连接进行操作。</p>
 
 <p><b>（1）Ubuntu系统设置：安装ssh</b></p>
 
