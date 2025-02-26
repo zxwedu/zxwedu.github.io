@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaowei Zhou"
   avatar           : "zxw.jpg"
-  bio              : "PhD Student @ UTS and Data61 CSIRO"
-  location         : "Australia"
+  bio              : "Lecturer"
+  location         : "China"
   employer         :
   pubmed           : #""
   googlescholar    : #""
-  email            : "Xiaowei.Zhou@student.uts.edu.au"
+  email            : "zhouxiaowei@ouc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
